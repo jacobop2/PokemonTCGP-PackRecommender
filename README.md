@@ -26,8 +26,8 @@ Make sure you have the following installed:
    ```python
    pip install -r requirements.txt
    ```
-3. **Fill out the input/search_pokemon.txt file**
-Enter the pokemon you wish to find, one per line. Make sure that spelling is correct.
+3. **Fill out the input/search_pokemon.txt file**   
+Enter the pokemon you wish to find, one per line. Make sure that spelling is correct.      
 Example:
    ```
    Greninja

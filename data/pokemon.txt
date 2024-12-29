@@ -1,0 +1,278 @@
+      POKEMON       |                            PACK                            
+----------------------------------------------------------------------------------
+     Bulbasaur      |           Genetic Apex (A1)Mewtwo, PromoPromo-A            
+      Ivysaur       |                  Genetic Apex (A1)Mewtwo                   
+      Venusaur      |           Genetic Apex (A1)Mewtwo, PromoPromo-A            
+    Venusaur ex     |                  Genetic Apex (A1)Mewtwo                   
+      Caterpie      |                  Genetic Apex (A1)Pikachu                  
+      Metapod       |                  Genetic Apex (A1)Pikachu                  
+     Butterfree     |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+       Weedle       |                  Genetic Apex (A1)Mewtwo                   
+       Kakuna       |                  Genetic Apex (A1)Mewtwo                   
+      Beedrill      |                  Genetic Apex (A1)Mewtwo                   
+       Oddish       |                 Genetic Apex (A1)Charizard                 
+       Gloom        |                 Genetic Apex (A1)Charizard                 
+     Vileplume      |                 Genetic Apex (A1)Charizard                 
+       Paras        |                  Genetic Apex (A1)Pikachu                  
+      Parasect      |                  Genetic Apex (A1)Pikachu                  
+      Venonat       |                  Genetic Apex (A1)Mewtwo                   
+      Venomoth      |                  Genetic Apex (A1)Mewtwo                   
+     Bellsprout     |                 Genetic Apex (A1)Charizard                 
+     Weepinbell     |                 Genetic Apex (A1)Charizard                 
+     Victreebel     |                 Genetic Apex (A1)Charizard                 
+     Exeggcute      |    Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew    
+     Exeggutor      |                  Mythical Island (A1a)Mew                  
+    Exeggutor ex    |                 Genetic Apex (A1)Charizard                 
+      Tangela       |                 Genetic Apex (A1)Charizard                 
+      Scyther       |                  Genetic Apex (A1)Mewtwo                   
+       Pinsir       |      Genetic Apex (A1)Any, Genetic Apex (A1)Charizard      
+      Cottonee      |                    Genetic Apex (A1)Any                    
+     Whimsicott     |                    Genetic Apex (A1)Any                    
+      Petilil       |                    Genetic Apex (A1)Any                    
+     Lilligant      |                    Genetic Apex (A1)Any                    
+       Skiddo       |                 Genetic Apex (A1)Charizard                 
+       Gogoat       |                 Genetic Apex (A1)Charizard                 
+     Charmander     |                 Genetic Apex (A1)Charizard                 
+     Charmeleon     |                 Genetic Apex (A1)Charizard                 
+     Charizard      |                 Genetic Apex (A1)Charizard                 
+    Charizard ex    |      Genetic Apex (A1)Charizard, Genetic Apex (A1)Any      
+       Vulpix       |                 Genetic Apex (A1)Charizard                 
+     Ninetales      |                 Genetic Apex (A1)Charizard                 
+     Growlithe      |                  Genetic Apex (A1)Pikachu                  
+      Arcanine      |                  Genetic Apex (A1)Pikachu                  
+    Arcanine ex     |                  Genetic Apex (A1)Pikachu                  
+       Ponyta       |       Genetic Apex (A1)Any, Mythical Island (A1a)Mew       
+      Rapidash      |Genetic Apex (A1)Any, Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew
+       Magmar       |    Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew    
+      Flareon       |                 Genetic Apex (A1)Charizard                 
+      Moltres       |                 Genetic Apex (A1)Charizard                 
+     Moltres ex     |                 Genetic Apex (A1)Charizard                 
+      Heatmor       |                    Genetic Apex (A1)Any                    
+      Salandit      |                  Mythical Island (A1a)Mew                  
+      Salazzle      |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+     Sizzlipede     |                    Genetic Apex (A1)Any                    
+    Centiskorch     |                    Genetic Apex (A1)Any                    
+      Squirtle      |                  Genetic Apex (A1)Pikachu                  
+     Wartortle      |                  Genetic Apex (A1)Pikachu                  
+     Blastoise      |                  Genetic Apex (A1)Pikachu                  
+    Blastoise ex    |                  Genetic Apex (A1)Pikachu                  
+      Psyduck       |                    Genetic Apex (A1)Any                    
+      Golduck       |                    Genetic Apex (A1)Any                    
+      Poliwag       |                 Genetic Apex (A1)Charizard                 
+     Poliwhirl      |                 Genetic Apex (A1)Charizard                 
+     Poliwrath      |                 Genetic Apex (A1)Charizard                 
+     Tentacool      |                  Genetic Apex (A1)Mewtwo                   
+     Tentacruel     |                  Genetic Apex (A1)Mewtwo                   
+        Seel        |                  Genetic Apex (A1)Pikachu                  
+      Dewgong       |                  Genetic Apex (A1)Pikachu                  
+      Shellder      |                  Genetic Apex (A1)Mewtwo                   
+      Cloyster      |                  Genetic Apex (A1)Mewtwo                   
+       Krabby       |                  Genetic Apex (A1)Mewtwo                   
+      Kingler       |                  Genetic Apex (A1)Mewtwo                   
+       Horsea       |                  Genetic Apex (A1)Pikachu                  
+       Seadra       |                  Genetic Apex (A1)Pikachu                  
+      Goldeen       |                  Genetic Apex (A1)Pikachu                  
+      Seaking       |                  Genetic Apex (A1)Pikachu                  
+       Staryu       |                 Genetic Apex (A1)Charizard                 
+      Starmie       |                 Genetic Apex (A1)Charizard                 
+     Starmie ex     |                 Genetic Apex (A1)Charizard                 
+      Magikarp      |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+      Gyarados      |                  Genetic Apex (A1)Pikachu                  
+       Lapras       |                 Genetic Apex (A1)Charizard                 
+      Vaporeon      |                  Mythical Island (A1a)Mew                  
+      Omanyte       |                  Genetic Apex (A1)Pikachu                  
+      Omastar       |                  Genetic Apex (A1)Pikachu                  
+      Articuno      |                  Genetic Apex (A1)Mewtwo                   
+    Articuno ex     |                  Genetic Apex (A1)Mewtwo                   
+      Ducklett      |                 Genetic Apex (A1)Charizard                 
+       Swanna       |                 Genetic Apex (A1)Charizard                 
+      Froakie       |                 Genetic Apex (A1)Charizard                 
+     Frogadier      |                 Genetic Apex (A1)Charizard                 
+      Greninja      |          Genetic Apex (A1)Charizard, PromoPromo-A          
+     Pyukumuku      |                 Genetic Apex (A1)Charizard                 
+      Bruxish       |                    Genetic Apex (A1)Any                    
+        Snom        |                    Genetic Apex (A1)Any                    
+      Frosmoth      |                    Genetic Apex (A1)Any                    
+      Pikachu       |                        PromoPromo-A                        
+       Raichu       |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+     Pikachu ex     |       Genetic Apex (A1)Pikachu, Genetic Apex (A1)Any       
+     Magnemite      |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+      Magneton      |                  Genetic Apex (A1)Pikachu                  
+      Voltorb       |                  Genetic Apex (A1)Pikachu                  
+     Electrode      |                  Genetic Apex (A1)Pikachu                  
+     Electabuzz     |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+      Jolteon       |                  Genetic Apex (A1)Pikachu                  
+       Zapdos       |                  Genetic Apex (A1)Pikachu                  
+     Zapdos ex      |                  Genetic Apex (A1)Pikachu                  
+      Blitzle       |                    Genetic Apex (A1)Any                    
+     Zebstrika      |                    Genetic Apex (A1)Any                    
+       Tynamo       |                  Genetic Apex (A1)Mewtwo                   
+     Eelektrik      |                  Genetic Apex (A1)Mewtwo                   
+     Eelektross     |                  Genetic Apex (A1)Mewtwo                   
+     Helioptile     |                    Genetic Apex (A1)Any                    
+     Heliolisk      |                    Genetic Apex (A1)Any                    
+     Pincurchin     |                    Genetic Apex (A1)Any                    
+      Clefairy      |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+      Clefable      |                  Genetic Apex (A1)Pikachu                  
+        Abra        |                 Genetic Apex (A1)Charizard                 
+      Kadabra       |                 Genetic Apex (A1)Charizard                 
+      Alakazam      |                 Genetic Apex (A1)Charizard                 
+      Slowpoke      |      Genetic Apex (A1)Any, Genetic Apex (A1)Charizard      
+      Slowbro       |                    Genetic Apex (A1)Any                    
+       Gastly       |                  Genetic Apex (A1)Mewtwo                   
+      Haunter       |           Genetic Apex (A1)Mewtwo, PromoPromo-A            
+       Gengar       |                  Genetic Apex (A1)Mewtwo                   
+     Gengar ex      |                  Genetic Apex (A1)Mewtwo                   
+      Drowzee       |                  Genetic Apex (A1)Pikachu                  
+       Hypno        |                  Genetic Apex (A1)Pikachu                  
+      Mr. Mime      |                  Genetic Apex (A1)Mewtwo                   
+        Jynx        |                  Genetic Apex (A1)Mewtwo                   
+       Mewtwo       |           Genetic Apex (A1)Mewtwo, PromoPromo-A            
+     Mewtwo ex      |       Genetic Apex (A1)Mewtwo, Genetic Apex (A1)Any        
+       Ralts        |                  Genetic Apex (A1)Mewtwo                   
+       Kirlia       |                  Genetic Apex (A1)Mewtwo                   
+     Gardevoir      |                  Genetic Apex (A1)Mewtwo                   
+       Woobat       |                    Genetic Apex (A1)Any                    
+      Swoobat       |                    Genetic Apex (A1)Any                    
+       Golett       |                    Genetic Apex (A1)Any                    
+       Golurk       |                    Genetic Apex (A1)Any                    
+     Sandshrew      |                    Genetic Apex (A1)Any                    
+     Sandslash      |                    Genetic Apex (A1)Any                    
+      Diglett       |                  Genetic Apex (A1)Pikachu                  
+      Dugtrio       |                  Genetic Apex (A1)Pikachu                  
+       Mankey       |Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew, PromoPromo-A
+      Primeape      |    Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew    
+       Machop       |                 Genetic Apex (A1)Charizard                 
+      Machoke       |                 Genetic Apex (A1)Charizard                 
+      Machamp       |                 Genetic Apex (A1)Charizard                 
+     Machamp ex     |                 Genetic Apex (A1)Charizard                 
+      Geodude       |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+      Graveler      |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+       Golem        |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+        Onix        |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+       Cubone       |                  Genetic Apex (A1)Mewtwo                   
+      Marowak       |                  Genetic Apex (A1)Mewtwo                   
+     Marowak ex     |                  Genetic Apex (A1)Mewtwo                   
+     Hitmonlee      |                  Genetic Apex (A1)Mewtwo                   
+     Hitmonchan     |                 Genetic Apex (A1)Charizard                 
+      Rhyhorn       |                  Genetic Apex (A1)Mewtwo                   
+       Rhydon       |                  Genetic Apex (A1)Mewtwo                   
+       Kabuto       |                 Genetic Apex (A1)Charizard                 
+      Kabutops      |                 Genetic Apex (A1)Charizard                 
+      Mienfoo       |                  Genetic Apex (A1)Pikachu                  
+      Mienshao      |                  Genetic Apex (A1)Pikachu                  
+     Clobbopus      |                    Genetic Apex (A1)Any                    
+     Grapploct      |                    Genetic Apex (A1)Any                    
+       Ekans        |                    Genetic Apex (A1)Any                    
+       Arbok        |                    Genetic Apex (A1)Any                    
+     Nidoran F      |                  Genetic Apex (A1)Pikachu                  
+      Nidorina      |                  Genetic Apex (A1)Pikachu                  
+     Nidoqueen      |                  Genetic Apex (A1)Pikachu                  
+     Nidoran M      |                  Genetic Apex (A1)Pikachu                  
+      Nidorino      |                  Genetic Apex (A1)Pikachu                  
+      Nidoking      |                  Genetic Apex (A1)Pikachu                  
+       Zubat        |                  Genetic Apex (A1)Mewtwo                   
+       Golbat       |                  Genetic Apex (A1)Mewtwo                   
+       Grimer       |                  Genetic Apex (A1)Mewtwo                   
+        Muk         |                  Genetic Apex (A1)Mewtwo                   
+      Koffing       |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+      Weezing       |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+       Mawile       |                 Genetic Apex (A1)Charizard                 
+      Pawniard      |                    Genetic Apex (A1)Any                    
+      Bisharp       |                    Genetic Apex (A1)Any                    
+       Meltan       |                 Genetic Apex (A1)Charizard                 
+      Melmetal      |                 Genetic Apex (A1)Charizard                 
+      Dratini       |                  Genetic Apex (A1)Mewtwo                   
+     Dragonair      |                  Genetic Apex (A1)Mewtwo                   
+     Dragonite      |                  Genetic Apex (A1)Mewtwo                   
+       Pidgey       |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+     Pidgeotto      |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+      Pidgeot       |                  Genetic Apex (A1)Mewtwo                   
+      Rattata       |                    Genetic Apex (A1)Any                    
+      Raticate      |                    Genetic Apex (A1)Any                    
+      Spearow       |                 Genetic Apex (A1)Charizard                 
+       Fearow       |                 Genetic Apex (A1)Charizard                 
+     Jigglypuff     |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+     Wigglytuff     |                  Genetic Apex (A1)Pikachu                  
+   Wigglytuff ex    |                  Genetic Apex (A1)Pikachu                  
+       Meowth       |          Genetic Apex (A1)Charizard, PromoPromo-A          
+      Persian       |                 Genetic Apex (A1)Charizard                 
+     Farfetch'd     |                    Genetic Apex (A1)Any                    
+       Doduo        |                    Genetic Apex (A1)Any                    
+       Dodrio       |                    Genetic Apex (A1)Any                    
+     Lickitung      |                  Genetic Apex (A1)Mewtwo                   
+      Chansey       |           Genetic Apex (A1)Pikachu, PromoPromo-A           
+     Kangaskhan     |                 Genetic Apex (A1)Charizard                 
+       Tauros       |    Genetic Apex (A1)Charizard, Mythical Island (A1a)Mew    
+       Ditto        |                  Genetic Apex (A1)Mewtwo                   
+       Eevee        |     Genetic Apex (A1)Pikachu, Mythical Island (A1a)Mew     
+      Porygon       |                  Genetic Apex (A1)Mewtwo                   
+     Aerodactyl     |                  Genetic Apex (A1)Mewtwo                   
+      Snorlax       |                  Genetic Apex (A1)Pikachu                  
+      Minccino      |                    Genetic Apex (A1)Any                    
+      Cinccino      |                    Genetic Apex (A1)Any                    
+       Wooloo       |                    Genetic Apex (A1)Any                    
+      Dubwool       |                    Genetic Apex (A1)Any                    
+    Helix Fossil    |                  Genetic Apex (A1)Pikachu                  
+    Dome Fossil     |                 Genetic Apex (A1)Charizard                 
+     Old Amber      |     Genetic Apex (A1)Mewtwo, Mythical Island (A1a)Mew      
+       Erika        |                 Genetic Apex (A1)Charizard                 
+       Misty        |                  Genetic Apex (A1)Pikachu                  
+       Blaine       |                 Genetic Apex (A1)Charizard                 
+        Koga        |                  Genetic Apex (A1)Mewtwo                   
+      Giovanni      |                  Genetic Apex (A1)Mewtwo                   
+       Brock        |                  Genetic Apex (A1)Pikachu                  
+      Sabrina       |                 Genetic Apex (A1)Charizard                 
+     Lt. Surge      |                  Genetic Apex (A1)Pikachu                  
+        Mew         |     Genetic Apex (A1)Special, Mythical Island (A1a)Mew     
+     Celebi ex      |                  Mythical Island (A1a)Mew                  
+       Snivy        |                  Mythical Island (A1a)Mew                  
+      Servine       |                  Mythical Island (A1a)Mew                  
+     Serperior      |                  Mythical Island (A1a)Mew                  
+      Morelull      |                  Mythical Island (A1a)Mew                  
+     Shiinotic      |                  Mythical Island (A1a)Mew                  
+      Dhelmise      |                  Mythical Island (A1a)Mew                  
+      Larvesta      |                  Mythical Island (A1a)Mew                  
+     Volcarona      |                  Mythical Island (A1a)Mew                  
+    Gyarados ex     |                  Mythical Island (A1a)Mew                  
+      Finneon       |                  Mythical Island (A1a)Mew                  
+      Lumineon      |                  Mythical Island (A1a)Mew                  
+      Chewtle       |                  Mythical Island (A1a)Mew                  
+      Drednaw       |                  Mythical Island (A1a)Mew                  
+     Cramorant      |                  Mythical Island (A1a)Mew                  
+       Joltik       |                  Mythical Island (A1a)Mew                  
+     Galvantula     |                  Mythical Island (A1a)Mew                  
+      Dedenne       |                  Mythical Island (A1a)Mew                  
+       Mew ex       |                  Mythical Island (A1a)Mew                  
+      Sigilyph      |                  Mythical Island (A1a)Mew                  
+       Elgyem       |                  Mythical Island (A1a)Mew                  
+      Beheeyem      |                  Mythical Island (A1a)Mew                  
+      Flabebe       |                  Mythical Island (A1a)Mew                  
+      Floette       |                  Mythical Island (A1a)Mew                  
+      Florges       |                  Mythical Island (A1a)Mew                  
+      Swirlix       |                  Mythical Island (A1a)Mew                  
+      Slurpuff      |                  Mythical Island (A1a)Mew                  
+   Aerodactyl ex    |                  Mythical Island (A1a)Mew                  
+     Marshadow      |                  Mythical Island (A1a)Mew                  
+    Stonjourner     |                  Mythical Island (A1a)Mew                  
+      Purrloin      |                  Mythical Island (A1a)Mew                  
+      Liepard       |                  Mythical Island (A1a)Mew                  
+      Venipede      |                  Mythical Island (A1a)Mew                  
+     Whirlipede     |                  Mythical Island (A1a)Mew                  
+     Scolipede      |                  Mythical Island (A1a)Mew                  
+     Druddigon      |                  Mythical Island (A1a)Mew                  
+     Pidgeot ex     |                  Mythical Island (A1a)Mew                  
+       Chatot       |                  Mythical Island (A1a)Mew                  
+   Pokemon Flute    |                  Mythical Island (A1a)Mew                  
+   Mythical Slab    |                  Mythical Island (A1a)Mew                  
+Budding Expeditioner|                  Mythical Island (A1a)Mew                  
+        Blue        |                  Mythical Island (A1a)Mew                  
+        Leaf        |                  Mythical Island (A1a)Mew                  
+       Potion       |                        PromoPromo-A                        
+      X Speed       |                        PromoPromo-A                        
+     Hand Scope     |                        PromoPromo-A                        
+      Pokedex       |                        PromoPromo-A                        
+     Poke Ball      |                        PromoPromo-A                        
+      Red Card      |                        PromoPromo-A                        
+Professor's Research|                        PromoPromo-A                        
+     Lapras ex      |                        PromoPromo-A                        

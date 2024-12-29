@@ -1,0 +1,20 @@
+## Version: Beta
+## Date: 12/29
+ 
+### Functionalities: 
+- Webscrape data from the Pokémon TCGP archives
+- Accepts an input list of Pokémon to find their associated packs
+- Recommends the best pack containing the most input Pokémon
+
+### Changes:
+
+### Known Bugs:
+- pack_rec does not take into account rarity or odds of finding the given pokemon in the pack
+- pack_rec may fail to webscrape data for unusual table setups
+
+### Future Plans:
+- Incorporate card odds
+- Incorporate additional information, like pack points, which could influence the pack recommendation
+- Provide independent meta relevant recommendations for users who would like to build relevant decks
+
+

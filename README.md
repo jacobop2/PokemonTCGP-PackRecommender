@@ -23,17 +23,18 @@ Make sure you have the following installed:
    cd PokemonTCGP-PackRecommender
    ```
 2. **Install the required python packages:**
-  ```python
-  pip install -r requirements.txt
-  ```
+   ```python
+   pip install -r requirements.txt
+   ```
 3. **Fill out the input/search_pokemon.txt file**
 Enter the pokemon you wish to find, one per line. Make sure that spelling is correct.
 Example:
-  Greninja
-  Charizard ex
-  Mew ex
-
-4. **Run the code**
-```python
-python3 pack_rec.py
-```
+   ```
+   Greninja
+   Charizard ex
+   Mew ex
+   ```
+5. **Run the code**
+   ```python
+   python3 pack_rec.py
+   ```

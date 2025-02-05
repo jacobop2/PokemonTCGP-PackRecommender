@@ -39,7 +39,6 @@ COLOR_INVALID = "\033[1;31m"
 '''
     1) Webscrape relevant pokemon data from the tcgp archives and write to data file
 '''
-
 url = "https://game8.co/games/Pokemon-TCG-Pocket/archives/482685#hl_1"
 
 print( "Beginning data retrieval..." )
@@ -84,11 +83,9 @@ with open( DATA_FILE_PATH, 'w' ) as file:
 print( f"   SUCCESS: Data retrieval complete, wrote to {DATA_FILE_PATH}" )
 
 
-
 '''
     2) Read input list
 '''
-
 print( "Reading input list..." )
 
 input_pokemon = []
@@ -102,7 +99,6 @@ if not input_pokemon:
     print( "    ERROR: Input pokemon list is empty" )
 else:
     print( f"   SUCCESS: Input pokemon list read" )
-
 
 
 '''
